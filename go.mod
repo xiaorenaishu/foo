@@ -1,3 +1,3 @@
-module github.com/chenxinren/foo
+module github.com/xiaorenaishu/foo
 
 go 1.12
